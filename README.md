@@ -1,6 +1,7 @@
 # Image-optz
 Image Optimize
-Aftr Donwload go to folder cmd and run these command on cmd 
+
+After Donwload go to folder cmd and run these command on cmd 
 
 npm install -g grunt
 npm install -g grunt-cli
